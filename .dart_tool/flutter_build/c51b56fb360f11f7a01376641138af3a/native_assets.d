@@ -1,0 +1,1 @@
+ /Users/macbook/Desktop/workapace/creasoft/gam/new/Complex-UI-RiveAnimation/.dart_tool/flutter_build/c51b56fb360f11f7a01376641138af3a/native_assets.yaml: 
